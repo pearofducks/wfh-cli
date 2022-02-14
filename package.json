@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "binary": "./index.js",
+  "bin": "./index.js",
   "type": "module",
   "scripts": {},
   "author": "",
