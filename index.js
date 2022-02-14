@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import got from 'got'
 import { bold, red, yellow, green } from 'colorette'
 
