@@ -1,0 +1,15 @@
+{
+  "name": "@pearofducks/rona",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "binary": "./index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colorette": "^2.0.16",
+    "got": "^12.0.1"
+  }
+}
